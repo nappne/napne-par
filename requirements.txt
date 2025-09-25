@@ -1,0 +1,9 @@
+furo
+linkify-it-py
+myst-parser
+sphinx
+sphinx-autobuild
+sphinx-copybutton
+sphinx-book-theme
+sphinxcontrib-bibtex
+sphinxcontrib-mermaid
